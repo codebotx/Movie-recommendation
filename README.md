@@ -1,5 +1,5 @@
 
-Created a content based recommendation system using ML
+Created a item based collaborative based recommendation system using ML
 
 	Used movie rating 100k dataset
 	
